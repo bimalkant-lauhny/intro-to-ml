@@ -12,6 +12,7 @@ OS - Ubuntu 18.10
 
 ```sh
 apt install python-pip
+apt install python-tk
 pip install virtualenv
 ```
 
@@ -26,6 +27,7 @@ source my_project/bin/activate
 ```sh
 pip install sklearn
 pip install nltk
+pip install matplotlib
 ```
 
 Good to go now...
